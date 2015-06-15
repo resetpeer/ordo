@@ -1350,7 +1350,158 @@ and Companions, Martyrs',
                 'RED'
             ),
 //-----------------------------------
-
+            array
+             (
+               'allSouls',
+                'The Commemoration of All the Faithful Departed',
+               mktime (0, 0, 0, 11, 2, $year ),
+                'FIXED_FEAST',
+                'WHITE'
+            ),
+            array
+            (
+                'saintMartinDePorres',
+                'Saint Martin de Porres, Religious',
+                mktime (0, 0, 0, 11, 3, $year ),
+                'OPT_MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'saintCharlesBorromeo',
+                'Saint Charles Borromeo, Bishop',
+                mktime (0, 0, 0, 11, 4, $year ),
+                'MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'dedicationOfTheLateranBasilica',
+                'The Dedication of the Lateran Basilica',
+                mktime (0, 0, 0, 11, 9, $year ),
+                'FIXED_FEAST',
+                'WHITE'
+            ),
+            array
+            (
+                'saintLeoTheGreat',
+                'Saint Leo the Great, Pope and Doctor of the Church',
+                mktime (0, 0, 0, 11, 10, $year ),
+                'MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'saintMartinOfTours',
+                'aint Martin of Tours, Bishop',
+                mktime (0, 0, 0, 11, 11, $year ),
+                'MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'saintJosaphat',
+                'Saint Josaphat, Bishop and Martyr',
+                mktime (0, 0, 0, 11, 12, $year ),
+                'MEMORIAL_MARTYR',
+                'RED'
+            ),
+            array
+            (
+                'saintAlbertTheGreat',
+                'Saint Albert the Great, Bishop and Doctor of the Church',
+                mktime (0, 0, 0, 11, 15, $year ),
+                'OPT_MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'saintMargaretOfScotlant',
+                'Saint Margaret of Scotland',
+                mktime (0, 0, 0, 11, 16, $year ),
+                'OPT_MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'saintGertrudeTheGreat',
+                'Saint Gertrude, Virgin',
+                mktime (0, 0, 0, 11, 16, $year ),
+                'OPT_MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'saintElizabethOfHungary',
+                'Saint Elizabeth of Hungary, Religious',
+                mktime (0, 0, 0, 11, 17, $year ),
+                'MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'dedicationOfTheBasilicasOfSaintsPeterAndPaul',
+                'The Dedication of the Basilicas of Saints Peter and Paul, Apostles',
+                mktime (0, 0, 0, 11, 18, $year ),
+                'OPT_MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'presentationOfTheBlessedVirginMary',
+                'The Presentation of the Blessed Virgin Mary',
+                mktime (0, 0, 0, 11, 21, $year ),
+                'MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'saintCecilia',
+                'Saint Cecilia, Virgin and Martyr',
+                mktime (0, 0, 0, 11, 22, $year ),
+                'MEMORIAL',
+                'RED'
+            ),
+            array
+            (
+                'saintClementI',
+                'Saint Clement I, Pope and Martyr',
+                mktime (0, 0, 0, 11, 23, $year ),
+                'OPT_MEMORIAL_MARTYR',
+                'RED'
+            ),
+            array
+            (
+                'saintSaintColumban',
+                'Saint Columban, Abbot',
+                mktime (0, 0, 0, 11, 23, $year ),
+                'OPT_MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'saintAndrewDungLacAndCo',
+                'Saint Andrew Dũng-Lạc, Priest, and Companions, Martyrs',
+                mktime (0, 0, 0, 11, 24, $year ),
+                'MEMORIAL_MARTYR',
+                'RED'
+            ),
+            array
+            (
+                'saintCatherineOfAlexandria',
+                'Saint Catherine of Alexandria, Virgin and Martyr',
+                mktime (0, 0, 0, 11, 25, $year ),
+                'OPT_MEMORIAL_MARTYR',
+                'RED'
+            ),
+            array
+            (
+                'saintAndrew',
+                'Saint Andrew, Apostle',
+                mktime (0, 0, 0, 11, 30, $year ),
+                'FEAST_APOSTLE',
+                'RED'
+            )
 
 
 //-----------------------------------
