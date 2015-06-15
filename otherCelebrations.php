@@ -1349,7 +1349,6 @@ and Companions, Martyrs',
                 'FEAST_APOSTLE',
                 'RED'
             ),
-//-----------------------------------
             array
              (
                'allSouls',
@@ -1501,11 +1500,137 @@ and Companions, Martyrs',
                 mktime (0, 0, 0, 11, 30, $year ),
                 'FEAST_APOSTLE',
                 'RED'
-            )
-
+            ),
 
 //-----------------------------------
-
+            array
+            (
+                'saintFrancisXavier',
+                'Saint Francis Xavier, Priest',
+                mktime (0, 0, 0, 12, 3, $year ),
+                'MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'saintJohnDamascene',
+                'Saint John Damascene, Priest and Doctor of the Church',
+                mktime (0, 0, 0, 12, 4, $year ),
+                'OPT_MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'saintNicholas',
+                'Saint Nicholas, Bishop',
+                mktime (0, 0, 0, 12, 6, $year ),
+                'OPT_MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'saintAmbrose',
+                'Saint Ambrose, Bishop and Doctor of the Church',
+                mktime (0, 0, 0, 12, 7, $year ),
+                'MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'saintJuanDiego',
+                'Saint Juan Diego Cuauhtlatoatzin',
+                mktime (0, 0, 0, 12, 9, $year ),
+                'OPT_MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'saintDamasusI',
+                'Saint Damasus I, Pope',
+                mktime (0, 0, 0, 12, 11, $year ),
+                'OPT_MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'ourLadyOfGuadalupe',
+                'Our Lady of Guadalupe',
+                mktime (0, 0, 0, 12, 12, $year ),
+                'OPT_MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'saintLucyOfSyracuse',
+                'Saint Lucy, Virgin and Martyr',
+                mktime (0, 0, 0, 12, 13, $year ),
+                'MEMORIAL_MARTYR',
+                'RED'
+            ),
+            array
+            (
+                'saintJohnOfTheCross',
+                'Saint John of the Cross, Priest and Doctor of the Church',
+                mktime (0, 0, 0, 12, 14, $year ),
+                'MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'saintPeterCanisius',
+                'Saint Peter Canisius, Priest and Doctor of the Church',
+                mktime (0, 0, 0, 12, 21, $year ),
+                'OPT_MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'saintJohnOfKanty',
+                'Saint John of Kanty, Priest',
+                mktime (0, 0, 0, 12, 23, $year ),
+                'OPT_MEMORIAL',
+                'WHITE'
+            ),
+            array
+            (
+                'saintStephenTheFirstMartyr',
+                'Saint Stephen, The First Martyr',
+                mktime (0, 0, 0, 12, 26, $year ),
+                'FEAST_MARTYR',
+                'RED'
+            ),
+            array
+            (
+                'saintJohnTheApostle',
+                'Saint John, Apostle and Evangelist',
+                mktime (0, 0, 0, 12, 27, $year ),
+                'FEAST',
+                'RED'
+            ),
+            array
+            (
+                'holyInnocents',
+                'The Holy Innocents, Martyrs',
+                mktime (0, 0, 0, 12, 28, $year ),
+                'FEAST_MARTYR',
+                'RED'
+            ),
+            array
+            (
+                'saintThomasBecket',
+                'Saint Thomas Becket, Bishop and Martyr',
+                mktime (0, 0, 0, 12, 29, $year ),
+                'OPT_MEMORIAL_MARTYR',
+                'RED'
+            ),
+            array
+            (
+                'saintSylvesterI',
+                'Saint Sylvester I, Pope',
+                mktime (0, 0, 0, 12, 31, $year ),
+                'OPT_MEMORIAL',
+                'WHITE'
+            ) 
         );
 
         return ($dates);
